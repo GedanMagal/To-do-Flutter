@@ -1,4 +1,4 @@
-name: zentosmobile
+name: todo
 description: A new Flutter project.
 
 # The following defines the version and build number for your application.
@@ -23,10 +23,18 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
+  shared_preferences: ^0.5.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  
+  flutter_launcher_icons: "^0.7.0"
+
+flutter_icons:
+    image_path: "./images/appstore.png"
+    android: true
+    ios: true
 
 
 # For information on the generic Dart part of this file, see the

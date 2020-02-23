@@ -1,4 +1,4 @@
-package com.example.zentosmobile
+package com.example.todo
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
